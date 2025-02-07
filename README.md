@@ -1,13 +1,11 @@
 ### Hello there 👋
 
-I'm Josh. I lead the Software Development team at [A2 Hosting][1] where we're
-building tools for WordPress web professionals.
+I'm Josh, a full stack developer and leader with over 15 years of experience designing and maintaining SaaS platforms, control panels, and billing systems. Expert in API server and client implementation and integration. I have an extensive background in web hosting and Linux systems administration and I'm highly productive on remote, agile teams.
 
-I also write a bit over at [josh.fail][2] and I hack a bit here on [GitHub][3].
+I also write a bit over at [josh.fail][1] and I hack a bit here on [GitHub][2].
 
-[1]: https://www.a2hosting.com/
-[2]: https://josh.fail/
-[3]: https://github.com/itspriddle
+[1]: https://josh.fail/
+[2]: https://github.com/itspriddle
 
 <!--
 **itspriddle/itspriddle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
