@@ -1,8 +1,8 @@
 ### Hello there 👋
 
-I'm Josh, a full stack developer and leader with over 15 years of experience designing and maintaining SaaS platforms, control panels, and billing systems. Expert in API server and client implementation and integration. I have an extensive background in web hosting and Linux systems administration and I'm highly productive on remote, agile teams.
+I'm Josh, a full stack developer and leader with over 15 years of experience designing and maintaining SaaS platforms, control panels, and billing systems uisng Ruby on Rails and Laravel. Expert in API server and client implementation and integration. I have an extensive background in web hosting and Linux systems administration and I'm highly productive on remote, agile teams.
 
-I also write a bit over at [josh.fail][1] and I hack a bit here on [GitHub][2].
+I also write a bit over at [josh.fail][1] and I hack a bit here on [GitHub][2]. I'm looking for a new development or leadership role in a Ruby shop as of February 2025 — ping me at jpriddle \[at\] me.com to chat!
 
 [1]: https://josh.fail/
 [2]: https://github.com/itspriddle
