@@ -2,7 +2,7 @@
 
 I'm Josh, a full stack developer and leader with over 15 years of experience designing and maintaining SaaS platforms, control panels, and billing systems using Ruby on Rails. Expert in API server and client implementation and integration. I have an extensive background in web hosting and Linux systems administration and I'm highly productive on remote, agile teams.
 
-I mainly program in Ruby, PHP, and Bash. My CV is at [priddle.net][3]. I also write a bit over at [josh.fail][1] and I hack a bit here on [GitHub][2]. I'm looking for a new development or leadership role in a Ruby or PHP shop as of February 2025 — ping me at jpriddle \[at\] me.com to chat!
+I mainly program in Ruby, PHP, and Bash. My CV is at [priddle.net][3]. I also write a bit over at [josh.fail][1] and I hack a bit here on [GitHub][2].
 
 [1]: https://josh.fail/
 [2]: https://github.com/itspriddle
