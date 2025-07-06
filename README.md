@@ -1,12 +1,15 @@
 ### Hello there 👋
 
-I'm Josh, a full stack developer and leader with over 15 years of experience designing and maintaining SaaS platforms, control panels, and billing systems using Ruby on Rails. Expert in API server and client implementation and integration. I have an extensive background in web hosting and Linux systems administration and I'm highly productive on remote, agile teams.
+I'm Josh, a full-stack developer and leader with 20 years of experience in the web hosting space. I love the challenge of taking an idea and creating something out of nothing. Over the years, I've built SaaS platforms, control panels, and billing systems that serve hundreds of thousands of customers and websites. I'm passionate about API design and integration, and I have deep experience with Linux systems administration. I thrive on remote, agile teams where I can help guide technical decisions and mentor other developers.
 
-I mainly program in Ruby, PHP, and Bash. My CV is at [priddle.net][3]. I also write a bit over at [josh.fail][1] and I hack a bit here on [GitHub][2].
+I mainly program in PHP, Ruby, and Bash. My CV is at [priddle.net][3]. I also write a bit over at [josh.fail][1] and I hack a bit here on [GitHub][2].
+
+These days I'm the Director of Software Development and a co-founder at [BuiltFast][4], a privately owned, founder-led hosting company focused on bringing true service back to the hosting space. We believe that great hosting is still possible, and we're excited to prove it.
 
 [1]: https://josh.fail/
 [2]: https://github.com/itspriddle
 [3]: https://priddle.net/
+[4]: https://builtfast.com
 
 <!--
 **itspriddle/itspriddle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
