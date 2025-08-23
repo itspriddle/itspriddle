@@ -4,7 +4,7 @@ I'm Josh, a full-stack developer and leader with 20 years of experience in the w
 
 I mainly program in PHP, Ruby, and Bash. My CV is at [priddle.net][3]. I also write a bit over at [josh.fail][1] and I hack a bit here on [GitHub][2].
 
-These days I'm Co-Founder and Director of Software Development at [BuiltFast][4], a privately owned, founder-led hosting company focused on bringing true service back to the hosting space. We believe that great hosting is still possible, and we're excited to prove it.
+These days I'm Co-Founder and VP of Software Development at [BuiltFast][4], a privately owned, founder-led hosting company focused on bringing true service back to the hosting space. We believe that great hosting is still possible, and we're excited to prove it.
 
 [1]: https://josh.fail/
 [2]: https://github.com/itspriddle
